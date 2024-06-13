@@ -1,0 +1,199 @@
+.tit{
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke: 3px orangered;
+    font-size: 90px;
+    text-shadow: 2px 2px 4px #0901b3;
+    animation: glowing 2s infinite;
+    background-color: #1F618D;
+
+
+}
+body{
+  background-image: url(fon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.anun{
+    text-align: center;
+    font-size: 28px;
+    color: #1F618D;
+    -webkit-text-stroke: 2px #000000;
+
+}
+@keyframes glowing{
+    0% {text-shadow: 0 0 10px 
+        #ff0000; }
+        50% {
+            text-shadow: 0 0 20px
+            #ff8800e1;
+        }
+        100% {
+            text-shadow: 0 0 10px
+           #fffb00ec ;}
+}
+
+
+.letras{
+    text-align: left;
+    color: #1F618D;
+    font-size: 40px;
+    -webkit-text-stroke: 2px #000000;
+
+}
+
+.botones{
+    background-color:#ff8800e1 ;
+    padding: 20px;
+    border: black;
+    color:rgb(0, 0, 0) ;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.botones:hover{
+    background-color: red;
+    color: #000000e1;
+}
+.paga{
+    text-align: center;
+    font-size: 28px;
+    color: yellow;
+    -webkit-text-stroke: 3px orangered;
+    font-size: 70px;
+    text-shadow: 2px 2px 4px #0901b3;
+    animation: glowing 2s infinite;
+    background-color: #1F618D;
+
+}
+@keyframes glowing{
+    0% {text-shadow: 0 0 10px 
+        #ff0000; }
+        50% {
+            text-shadow: 0 0 20px
+            #ff8800e1;
+        }
+        100% {
+            text-shadow: 0 0 10px
+           #fffb00ec ;}
+
+
+  
+}
+
+.q{
+color: #1F618D ;
+text-align: right;
+font-size: 40px;
+left: 1000px;
+top: 1470px;
+position: absolute;
+-webkit-text-stroke: 2px #000000;
+}
+
+.cultur{
+    background-color:#2980B9 ;
+    padding: 20px;
+    border: black;
+    color:rgb(0, 0, 0) ;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.cultur:hover{
+    background-color: #7FB3D5 ;
+    color: #000000e1;
+}
+
+.menus{
+
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke: 2px orangered;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #0901b3;
+    animation: glowing 2s infinite;
+    background-color: #1F618D;
+}
+@keyframes glowing{
+    0% {text-shadow: 0 0 10px 
+        #ff0000; }
+        50% {
+            text-shadow: 0 0 20px
+            #ff8800e1;
+        }
+        100% {
+            text-shadow: 0 0 10px
+           #fffb00ec ;}
+
+
+  
+}
+
+.pop{
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke: 2px orangered;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #0901b3;
+    animation: glowing 2s infinite;
+    background-color: #1F618D;
+}
+
+@keyframes glowing{
+    0% {text-shadow: 0 0 10px 
+        #ff0000; }
+        50% {
+            text-shadow: 0 0 20px
+            #ff8800e1;
+        }
+        100% {
+            text-shadow: 0 0 10px
+           #fffb00ec ;}
+
+
+  
+}
+
+.que{
+    color: #154360 ;
+
+}
+
+.pi{
+    background-color: #5499C7 ;
+}
+
+.di{
+    text-align: center;
+}
+
+.ani{
+ 
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke: 2px orangered;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #0901b3;
+    animation: glowing 2s infinite;
+    background-color: #1F618D;
+}
+
+.loli{
+    text-align: center;
+}
+
+.nue{
+    text-align: center;
+    font-size: 18px;
+    color: yellow;
+    -webkit-text-stroke: 2px orangered;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #0901b3;
+    animation: glowing 2s infinite;
+    background-color: #1F618D;
+}
+
+.datos{
+    font-size: 25px;
+}
